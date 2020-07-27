@@ -2,7 +2,7 @@
 
 """bot.py : main Python file for Cobalt bot"""
 
-_author__ = "Quoding"
+__author__ = "Quoding"
 __license__ = "GPL"
 __version__ = "0.1.0"
 __maintainer__ = "Quoding"
