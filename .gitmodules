@@ -1,0 +1,3 @@
+[submodule "python_abstract_art"]
+	path = python_abstract_art
+	url = https://github.com/Quoding/python_abstract_art.git
